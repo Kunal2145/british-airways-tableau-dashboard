@@ -38,7 +38,7 @@ The dataset contains:
 
 ## 🔗 Live Dashboard
 
-👉 [View on Tableau Public][(PASTE_YOUR_LINK_HERE)](https://public.tableau.com/views/BritishAirwaysReview_17741866097790/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [View on Tableau Public](https://public.tableau.com/views/BritishAirwaysReview_17741866097790/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Image of Dashboard
 ![Dashboard Screenshot](<img width="1205" height="641" alt="British Airways_DASH" src="https://github.com/user-attachments/assets/34e9d424-6671-4f8c-b3bb-5c57dd752ea3" />
